@@ -30,6 +30,7 @@ val nunitoSans: FontFamily = FontFamily(
     Font(R.font.nunitosans_bold, weight = FontWeight.Bold, style = FontStyle.Normal),
 
 )
+
 // Set of Material typography styles to start with
 val typography = Typography(
     body1 = TextStyle(

@@ -313,7 +313,7 @@ fun Home() {
                             Surface(
                                 modifier = Modifier.requiredSize(136.dp),
                                 shape = MaterialTheme.shapes.small,
-                                color = MaterialTheme.colors.secondaryVariant, elevation = 1.dp
+                                color = MaterialTheme.colors.background, elevation = 1.dp
                             ) {
                                 Column() {
                                     Image(
