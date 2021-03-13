@@ -21,7 +21,6 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.unit.TextUnitType
 import androidx.compose.ui.unit.sp
 import com.example.androiddevchallenge.R
 
@@ -29,7 +28,6 @@ val nunitoSans: FontFamily = FontFamily(
     Font(R.font.nunitosans_light, weight = FontWeight.Light, style = FontStyle.Normal),
     Font(R.font.nunitosans_semibold, weight = FontWeight.SemiBold, style = FontStyle.Normal),
     Font(R.font.nunitosans_bold, weight = FontWeight.Bold, style = FontStyle.Normal),
-
 
 )
 // Set of Material typography styles to start with
