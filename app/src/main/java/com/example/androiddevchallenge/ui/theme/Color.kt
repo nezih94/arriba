@@ -17,7 +17,6 @@ package com.example.androiddevchallenge.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-
 val primary_lightTheme = Color(0xFFFFF1F1)
 val primaryVariant_lightTheme = Color(0xFF3F2C2C)
 val secondary_lightTheme = Color(0xFF3F2C2C)
@@ -29,8 +28,6 @@ val onbackground_lightTheme = Color(0xFF232323)
 val onsurface_lightTheme = Color(0xFF232323)
 val secondaryVariant_lightTheme = Color(0xFFFFFFFF)
 
-
-
 val primary_darkTheme = Color(0xFF2D3B2D)
 val primaryVariant_darkTheme = Color(0xFFFFFFFF)
 val secondary_darkTheme = Color(0xFFB8C9B8)
@@ -41,5 +38,3 @@ val onsecondary_darkTheme = Color(0xFF232323)
 val onbackground_darkTheme = Color(0xFFFFFFFF)
 val onsurface_darkTheme = Color(0xD9FFFFFF)
 val secondaryVariant_darkTheme = Color(0xFF303030)
-
-

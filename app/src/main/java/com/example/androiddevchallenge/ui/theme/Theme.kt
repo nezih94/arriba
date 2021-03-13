@@ -46,7 +46,6 @@ private val LightColorPalette = lightColors(
     onSurface = onsurface_lightTheme,
     secondaryVariant = secondaryVariant_lightTheme
 
-
 )
 
 @Composable
